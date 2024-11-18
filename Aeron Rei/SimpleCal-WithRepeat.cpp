@@ -24,7 +24,7 @@ void division(int a, int b) {
 int main() {
     int num1, num2;
     int operation;
-    char repeat;
+    string repeat;
 
     do {
         cout << "Enter First number: ";
